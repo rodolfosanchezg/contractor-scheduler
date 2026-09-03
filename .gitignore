@@ -8,7 +8,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Environment variablles / secrets
+# Environment variables / secrets
 .env
 .env.*
 
